@@ -6,6 +6,29 @@ L’écriture numérique “étendue” (par l’image, l’audio, la vidéo, la
 ## Fiches descriptives des ateliers
 Liste de mes [ateliers 2ème semestre 2018](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit?usp=sharing) (dernière version, gdoc)
 
+* Thème Vidéo et Audio
+  * [Créer des vidéos et des screencasts avec OBS](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.iwop3h7acdg1)
+  * [Réaliser des vidéos avec son smartphone ou sa tablette](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.htbiyo4vorhe)
+  * [Initiation au montage vidéo (avec Shotcut, Davinci Resolve ou iMovie)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.3ww2t1l1lgan) 
+  * [Réaliser des Gif animés, pourquoi et comment](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.7d1l2yx9e5m0)
+  * Initiation à la captation et édition audio, création de podcasts
+* Thème Programmation et Data
+  * #Programmer pour les humains ? par où commencer ?
+  * #Programmer sa page web (1/3) : HTML
+  * #Programmer sa page web (2/3) : CSS
+  * #Programmer sa page web (3/3) : Javascript  
+  * Apprendre à #programmer avec Python (découverte) 
+  * Présenter des données avec Python et Jupyter (#Programmer)  
+Découverte des nano-ordinateurs, #programmer un RPi avec Python
+* Thème 3D
+  * Utiliser et créer des objets 3D numériques, où commencer ?
+  * Créer des objets 3D avec Blender 
+* Thème Divers
+  * Augmenter sa productivité avec son clavier d'ordinateur
+  * Ecrire et dessiner avec un stylet, pourquoi et comment 
+  * Outils numériques pour l’apprentissage informel des langues
+  * Atelier libre et informel
+
 ## Cartes mentales (support)
 Cartes mentales sur Mindomo, export dans divers format possible sur demande.
 * Thème Vidéo et Audio
