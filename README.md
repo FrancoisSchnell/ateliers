@@ -1,6 +1,6 @@
 # Autour de l’écriture numérique “étendue”
 
-<img align="center" src="https://farm2.staticflickr.com/1837/29308637227_934e25b71a_o_d.png">
+<div style="text-align:center"><img src ="https://farm2.staticflickr.com/1837/29308637227_934e25b71a_o_d.png" /></div>
 
 
 ## Intro
