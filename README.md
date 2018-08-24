@@ -4,7 +4,7 @@
 L’écriture numérique “étendue” (par l’image, l’audio, la vidéo, la 3D, la programmation) sont-elles de nouvelles compétences transversales accessibles à tous ? Pour quoi faire ? 
 
 ## Fiches descriptives des ateliers
-Liste de mes [ateliers 2ème semestre 2018](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit?usp=sharing) (dernière version, gdoc)
+Mes [ateliers 2ème semestre 2018](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit?usp=sharing) (gdoc)
 
 * Thème Vidéo et Audio
   * [Créer des vidéos et des screencasts avec OBS](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.iwop3h7acdg1)
