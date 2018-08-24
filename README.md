@@ -11,23 +11,23 @@ Liste de mes [ateliers 2ème semestre 2018](https://docs.google.com/document/d/1
   * [Réaliser des vidéos avec son smartphone ou sa tablette](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.htbiyo4vorhe)
   * [Initiation au montage vidéo (avec Shotcut, Davinci Resolve ou iMovie)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.3ww2t1l1lgan) 
   * [Réaliser des Gif animés, pourquoi et comment](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.7d1l2yx9e5m0)
-  * Initiation à la captation et édition audio, création de podcasts
+  * [Initiation à la captation et édition audio, création de podcasts](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.utb13oub1kl8)
 * Thème Programmation et Data
-  * #Programmer pour les humains ? par où commencer ?
-  * #Programmer sa page web (1/3) : HTML
-  * #Programmer sa page web (2/3) : CSS
-  * #Programmer sa page web (3/3) : Javascript  
-  * Apprendre à #programmer avec Python (découverte) 
-  * Présenter des données avec Python et Jupyter (#Programmer)  
-Découverte des nano-ordinateurs, #programmer un RPi avec Python
+  * [#Programmer pour les humains ? par où commencer ?](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.2rxc8r342gc2)
+  * [#Programmer sa page web (1/3) : HTML](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.kc3qip8jydt7)
+  * [#Programmer sa page web (2/3) : CSS](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.6ku29n11zhwn)
+  * [#Programmer sa page web (3/3) : Javascript](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.s657sic0zjd3)
+  * [Apprendre à #programmer avec Python (découverte)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.1u320gp2a83f)
+  * [Présenter des données avec Python et Jupyter (#Programmer)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.etr6t5ard7dx)
+  * [Découverte des nano-ordinateurs, #programmer un Raspberry Pi avec Python](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.ej9vx2y36t0)
 * Thème 3D
-  * Utiliser et créer des objets 3D numériques, où commencer ?
-  * Créer des objets 3D avec Blender 
+  * [Utiliser et créer des objets 3D numériques, où commencer ?](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.frmg8aum6f8e)
+  * [Créer des objets 3D avec Blender](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.d827iheerf45)
 * Thème Divers
-  * Augmenter sa productivité avec son clavier d'ordinateur
-  * Ecrire et dessiner avec un stylet, pourquoi et comment 
-  * Outils numériques pour l’apprentissage informel des langues
-  * Atelier libre et informel
+  * [Augmenter sa productivité avec son clavier d'ordinateur](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.q1mj3s1wk6gk)
+  * [Ecrire et dessiner avec un stylet, pourquoi et comment](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.z1zp9q5t62sm)
+  * [Outils numériques pour l’apprentissage informel des langues](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.a9eui9ebjdj5)
+  * [Atelier libre et informel](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.wtq7clrfv01l)
 
 ## Cartes mentales (support)
 Cartes mentales sur Mindomo, export dans divers format possible sur demande.
