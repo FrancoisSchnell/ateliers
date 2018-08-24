@@ -1,6 +1,6 @@
 # Autour de l’écriture numérique “étendue”
 
-<div style="text-align:center"><img src ="https://farm2.staticflickr.com/1837/29308637227_a6e9aecb22_o_d.png" width="50%" /></div>
+<div style="text-align:center"><img src ="https://farm2.staticflickr.com/1865/30378408248_b6189bd8e3_o_d.png" width="80%" /></div>
 
 ## Intro
 L’écriture numérique “étendue” (par l’image, l’audio, la vidéo, la 3D, la programmation) sont-elles de nouvelles compétences transversales accessibles à tous ? Pour quoi faire ? 
