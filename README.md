@@ -1,5 +1,7 @@
 # Autour de l’écriture numérique “étendue”
 
+![illustration](https://www.dropbox.com/s/tjg1hv7pxih0v7c/ateliers.PNG)
+
 ## Intro
 L’écriture numérique “étendue” (par l’image, l’audio, la vidéo, la 3D, la programmation) sont-elles de nouvelles compétences transversales accessibles à tous ? Pour quoi faire ? 
 
