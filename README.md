@@ -21,6 +21,7 @@ Mes [ateliers 2018/2019](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEv
   * [Apprendre à #programmer avec Python (découverte)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.1u320gp2a83f)
   * [Présenter des données avec Python et Jupyter (#Programmer)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.etr6t5ard7dx)
   * [Découverte des nano-ordinateurs, #programmer un Raspberry Pi avec Python](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.ej9vx2y36t0)
+  * [Collaborer et versionner avec Git et Github # programmer](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.bee17u53qogc)
 * :globe_with_meridians: Thème 3D
   * [Utiliser et créer des objets 3D numériques, où commencer ?](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.frmg8aum6f8e)
   * [Créer des objets 3D avec Blender](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.d827iheerf45)
@@ -28,6 +29,7 @@ Mes [ateliers 2018/2019](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEv
   * [Augmenter sa productivité avec son clavier d'ordinateur](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.q1mj3s1wk6gk)
   * [Ecrire et dessiner avec un stylet, pourquoi et comment](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.z1zp9q5t62sm)
   * [Outils numériques pour l’apprentissage informel des langues](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.a9eui9ebjdj5)
+  * [Créer sa carte numérique en ligne (Google MyMaps, OpenStreetMap, Plans.unistra.fr…)](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.gd2pdrr0fzwh)
   * [Atelier libre et informel](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.wtq7clrfv01l)
 
 ## Cartes mentales (support)
