@@ -15,7 +15,7 @@ Très utilisé par les Youtubers, streamers et gamers, OBS est bien plus simple 
 **Nombre de participants** : 10 maximum
 
 **Pré-requis** :
-* télécharger et installer le logiciel OBS avant la séance (lien)
+* télécharger et installer le logiciel OBS avant la séance ([lien](https://obsproject.com/))
 * prévenir l’intervenant si vous ne disposez pas d’ordinateur portable (nous vous en préparerons un)
 
 **Objectifs et compétences** :  
@@ -23,12 +23,12 @@ Très utilisé par les Youtubers, streamers et gamers, OBS est bien plus simple 
 * s’initier au logiciel OBS
 * comprendre comment produire des contenus type tutoriels ou capsules
 * découverte et initiation à des équipements optionnels (micros USB, fond vert, lampe LED…)
-* découverte du studio du Lab (ressource disponible pour les usagers de l’université)
+* découverte du [studio du Lab](https://docs.google.com/document/d/1n_8uwFEvwMuA4iKla3jmBPKGWyEoB7_MaHJS6yqBeUc/edit?usp=sharing) (ressource disponible pour les usagers de l’université)
 
-**Inscription** : Dates et inscription. Le nombre de place étant restreint merci de prévenir au plus tôt pour libérer la place en cas d'empêchement.
+**Inscription** : [Dates et inscription](https://dun-inscriptions.u-strasbg.fr/emNrzHt2pP0id). Le nombre de place étant restreint merci de prévenir au plus tôt pour libérer la place en cas d'empêchement.
 
 **Lieu** :"Le Lab" du Centre de Culture Numérique (salle vitrée au rez-de-chaussée de l'Atrium, plan).
 
-**Intervenant**  :  François Schnell 
+**Intervenant**  :  [François Schnell](https://docs.google.com/document/d/1qcNArCIf1HtvrLnzgEvnAbgNdIqOL-A7BqwwcKd5AoU/edit#bookmark=id.i63hnrkw0ey7) 
 
-**Support de l’atelier** : carte mentale (branche “outils desktop”)
+**Support de l’atelier** : [carte mentale](https://www.mindomo.com/fr/mindmap/27cee1c5d6394c739b058db8c19a88bc) (branche “outils desktop”)
