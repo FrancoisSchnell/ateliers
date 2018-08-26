@@ -1,6 +1,8 @@
 # Atelier Lab : Créer des vidéos et des screencasts avec OBS
 ## Description
 
+![](https://farm2.staticflickr.com/1864/43559492924_314b6e59e1_o_d.png)
+
 Véritable régie vidéo, OBS est un logiciel libre de création et diffusion vidéo. Nous l’utiliserons pour enregistrer notre écran, une webcam ou d'autres sources pour réaliser des tutoriels, capsules, enregistrer une conférence voire même pour faire du direct.
 Très utilisé par les Youtubers, streamers et gamers, OBS est bien plus simple à utiliser qu’il ne semble. Son efficacité et versatilité vous permettront d’imaginer tous types de scénarios.
 
