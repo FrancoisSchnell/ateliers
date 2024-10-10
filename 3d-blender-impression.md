@@ -7,7 +7,7 @@
 - simulations physiques (fumées, feu, destruction...)
 - architecture
 - et de nombreuses extensions...
-- => comme un système d'exploitation 3D !?
+- => comme un système d'exploitation 3D !?   
 
 ## 🛠️  Réglages
  - 🖱️ avoir une souris ! (pas de pavé numérique)
