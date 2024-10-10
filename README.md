@@ -4,5 +4,7 @@ Tiers-lieu apprenant "high-tech/low-tech" fondé sur la pratique, le questionnem
 
 Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf)
 
-Support,
-- atelier [Blender et impression 3D](3d-blender-impression.md)
+Supports,
+
+- [Initiation à python](python.md)
+- [Blender et impression 3D](3d-blender-impression.md)

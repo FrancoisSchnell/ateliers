@@ -1,4 +1,3 @@
-🛠️ Tools 🧱 Concepts 🎯 Challenges 📚 Resources
 
 ## 🛠️ Tools
  🐍 which Python? 
