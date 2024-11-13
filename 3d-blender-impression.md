@@ -12,8 +12,9 @@
 ## 🛠️  Réglages
  - 🖱️ avoir une souris ! (pas de pavé numérique)
  - 🛰️ Edit > Preferences > Navigation > Orbit around selection
+ - 🛰️ Edit > Preferences > Navigation > Zoom > Zoom to mouse position
  - 🎥 N > view > view lock > lock camera to view
- - 👁️ (sélectionner la caméra) Properties object > End (adjust)
+ - 👁️ (sélectionner la caméra) Properties object (caméra verte) > End (adjust)
  - 🪟 créer, joindre, effacer une fenêtre (click droit, join area)
  - 🖼️ moteur de rendu : eeVee vs Cycle
  - ➕ Addons / extensions (optionnel)
