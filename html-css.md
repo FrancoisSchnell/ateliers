@@ -87,7 +87,8 @@ Make your webpage with HTML and CSS
 
 ## 🎯 Challenges, Projects
 - 🤵🏻‍♂️ Make single page website for Tim  
- - Goals (end result) : [HTML](http://mob.u-strasbg.fr/lab/atelier/web/indexHTML.html), [HTML/CSS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSS.html), [HTML/CSS/JS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSSJS.html)
+ - Goals (end result manually) : [HTML](http://mob.u-strasbg.fr/lab/atelier/web/indexHTML.html), [HTML/CSS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSS.html), [HTML/CSS/JS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSSJS.html)
+	 - [via copilot](https://francoisschnell.github.io/site/)
     - [tasks](https://docs.google.com/document/d/1VflA-kPei9EZjnd_qEj8sUmE9xHyMFbFBwRW6oldMmg/edit#heading=h.s1of1n1nbntb) to complete
     - Solution ... [code](https://seafile.unistra.fr/f/24f4e71ad8824c2dbc2f/)
 -  Modify an existing template
