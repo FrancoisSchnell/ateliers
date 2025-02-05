@@ -10,7 +10,7 @@ Make your webpage with HTML and CSS
 - [1990](https://en.wikipedia.org/wiki/Tim_Berners-Lee) : Tim Berners Lee, for research papers
 - .html files interpreted by web browsers (Microsoft Edge, Firefox, Chrome, Brave...)
 - moteur de rendu : Chromium, Gecko
-- [page minimale](http://mob.u-strasbg.fr/lab/test.html) page
+- [page minimale](http://mob.u-strasbg.fr/lab/test.html) 
 ### 🧰 Tools
 
 #### 🌐 Web Browser
