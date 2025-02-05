@@ -56,33 +56,25 @@ Make your webpage with HTML and CSS
 
 ### 🧰 In practice
  🥢 [selector](https://www.w3schools.com/cssref/sel_element.asp) {[property](<https://www.w3schools.com/cssref/>):value;}
-- tagname : `a {background-color:blue;}`
-- unique #id : `#myid {background-color:blue;}`
+- tag name : `a {background-color:blue;}`
+- unique #id : `#myid {background-color:blue;}` ([test.html](http://mob.u-strasbg.fr/lab/test.html))
 - many .class : `.myclass {background-color:blue;}`
 - combining selectors : `nav a`
-- [test.html](http://mob.u-strasbg.fr/lab/test.html)
 - tags often used for styling?
   - div (block type), span (inline type)
   - semantics (nav, header, footer, article, section, main, aside)
 - [box](https://www.w3schools.com/css/css_boxmodel.asp) model
-- [color](https://www.w3schools.com/colors/default.asp), background-color
-  - by name (blue, red...), hexa #00ff00 or rgb rgb(0,0,255)
-  - color pickers
+- [color](https://www.w3schools.com/colors/default.asp), background-color :- by name (blue, red...), hexa #00ff00, rgb rgb(0,0,255), color pickers
 - [text](https://www.w3schools.com/css/css_text.asp) format
   - font-family : [websafe](https://www.w3schools.com/cssref/css_websafe_fonts.asp) fonts, [google](https://fonts.google.com/) fonts ([example](https://fonts.google.com/specimen/Annie+Use+Your+Telescope)), [font awesome](https://fontawesome.com/)...
   - text-decoration, letter-spacing, word-spacing...
 -  [images](https://www.w3schools.com/css/css3_images.asp)
   - background-image: url("paper.gif");
-- [position](https://www.w3schools.com/css/css_positioning.asp)
-  - position [property](https://www.w3schools.com/css/css_positioning.asp) : [tuto](https://www.youtube.com/watch?v=jx5jmI0UlXU)
-  - [flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-  - [grid](https://www.w3schools.com/css/css_grid.asp)
-- 📱 [Responsive](https://www.w3schools.com/html/html_responsive.asp) design
-	- [viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
-		`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+- [position](https://www.w3schools.com/css/css_positioning.asp), position [property](https://www.w3schools.com/css/css_positioning.asp) : [tuto](https://www.youtube.com/watch?v=jx5jmI0UlXU), [flexbox](https://www.w3schools.com/css/css3_flexbox.asp), [grid](https://www.w3schools.com/css/css_grid.asp)
+-  [Responsive](https://www.w3schools.com/html/html_responsive.asp) design
+	- [viewport](https://www.w3schools.com/css/css_rwd_viewport.asp) `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 	- [units](https://www.w3schools.com/cssref/css_units.asp)
-		- [%](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_percentage)
-			- relative to parent tag
+		- [%](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_percentage) relative to parent tag
 			- `<img src="img_girl.jpg" style="width:100%;">`
 			- `<img src="img_girl.jpg" style="max-width:100%;height:auto;">`
 		- [vw/vh](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_vw) : viewport width / height
@@ -92,3 +84,11 @@ Make your webpage with HTML and CSS
 - CSS framework
 	- Helps with CSS and Responsive Design
 	- Most known : [Bootstrap](https://getbootstrap.com/), [tutoriel](https://www.youtube.com/watch?v=JZ6R1PaEpww) (FR)
+
+## 🎯 Challenges, Projects
+- 🤵🏻‍♂️ Make single page website for Tim  
+ - Goals (end result) : [HTML](http://mob.u-strasbg.fr/lab/atelier/web/indexHTML.html), [HTML/CSS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSS.html), [HTML/CSS/JS](http://mob.u-strasbg.fr/lab/atelier/web/indexHTMLCSSJS.html)
+    - [tasks](https://docs.google.com/document/d/1VflA-kPei9EZjnd_qEj8sUmE9xHyMFbFBwRW6oldMmg/edit#heading=h.s1of1n1nbntb) to complete
+    - Solution ... [code](https://seafile.unistra.fr/f/24f4e71ad8824c2dbc2f/)
+-  Modify an existing template
+        - Free template [Kards](https://www.styleshout.com/free-templates/kards/) or [w3.css](https://www.w3schools.com/w3css/w3css_templates.asp)
