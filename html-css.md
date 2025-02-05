@@ -27,7 +27,7 @@ Make your webpage with HTML and CSS
   - Online version : [vscode.dev](https://vscode.dev/)
 ### 🉐 Tags
 
-- **<>**Tags
+- **<>** Tags
 - `<tagname> ... </tagname>`   
 - **complete [list](https://www.w3schools.com/tags/)** 
   - [`<!DOCTYPE html>`](https://www.w3schools.com/tags/tag_doctype.asp), [html](https://www.w3schools.com/tags/tag_html.asp), [head](https://www.w3schools.com/tags/tag_head.asp) ([title](https://www.w3schools.com/tags/tag_title.asp), [meta](https://www.w3schools.com/tags/tag_meta.asp), [link](https://www.w3schools.com/tags/tag_link.asp), [script](https://www.w3schools.com/tags/tag_script.asp)...), [body](https://www.w3schools.com/tags/tag_body.asp)
