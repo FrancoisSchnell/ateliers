@@ -6,5 +6,5 @@ Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf)
 
 Supports,
 
-- [Initiation à python](python.md)
+- [Initiation à python](python-atelier.md)
 - [Blender et impression 3D](3d-blender-impression.md)
