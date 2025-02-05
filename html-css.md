@@ -56,27 +56,27 @@ Make your webpage with HTML and CSS
 
 ### 🧰 In practice
  🥢 [selector](https://www.w3schools.com/cssref/sel_element.asp) {[property](<https://www.w3schools.com/cssref/>):value;}
-		- tagname : `a {background-color:blue;}`
-		- unique #id : `#myid {background-color:blue;}`
-		- many .class : `.myclass {background-color:blue;}`
-		- combining selectors : `nav a`
-		- [test.html](http://mob.u-strasbg.fr/lab/test.html)
+- tagname : `a {background-color:blue;}`
+- unique #id : `#myid {background-color:blue;}`
+- many .class : `.myclass {background-color:blue;}`
+- combining selectors : `nav a`
+- [test.html](http://mob.u-strasbg.fr/lab/test.html)
 - tags often used for styling?
-		- div (block type), span (inline type)
-		- semantics (nav, header, footer, article, section, main, aside)
+  - div (block type), span (inline type)
+  - semantics (nav, header, footer, article, section, main, aside)
 - [box](https://www.w3schools.com/css/css_boxmodel.asp) model
 - [color](https://www.w3schools.com/colors/default.asp), background-color
-		- by name (blue, red...), hexa #00ff00 or rgb rgb(0,0,255)
-		- color pickers
+  - by name (blue, red...), hexa #00ff00 or rgb rgb(0,0,255)
+  - color pickers
 - [text](https://www.w3schools.com/css/css_text.asp) format
-		- font-family : [websafe](https://www.w3schools.com/cssref/css_websafe_fonts.asp) fonts, [google](https://fonts.google.com/) fonts ([example](https://fonts.google.com/specimen/Annie+Use+Your+Telescope)), [font awesome](https://fontawesome.com/)...
-		- text-decoration, letter-spacing, word-spacing...
+  - font-family : [websafe](https://www.w3schools.com/cssref/css_websafe_fonts.asp) fonts, [google](https://fonts.google.com/) fonts ([example](https://fonts.google.com/specimen/Annie+Use+Your+Telescope)), [font awesome](https://fontawesome.com/)...
+  - text-decoration, letter-spacing, word-spacing...
 -  [images](https://www.w3schools.com/css/css3_images.asp)
-		- background-image: url("paper.gif");
+  - background-image: url("paper.gif");
 - [position](https://www.w3schools.com/css/css_positioning.asp)
-		- position [property](https://www.w3schools.com/css/css_positioning.asp) : [tuto](https://www.youtube.com/watch?v=jx5jmI0UlXU)
-		- [flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-		- [grid](https://www.w3schools.com/css/css_grid.asp)
+  - position [property](https://www.w3schools.com/css/css_positioning.asp) : [tuto](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+  - [flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+  - [grid](https://www.w3schools.com/css/css_grid.asp)
 - 📱 [Responsive](https://www.w3schools.com/html/html_responsive.asp) design
 	- [viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
 		`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
