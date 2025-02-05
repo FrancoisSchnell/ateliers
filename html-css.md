@@ -40,3 +40,56 @@ Make your webpage with HTML and CSS
     - or select text and **ctrl + /**  in Visual Studio Code
   - **semantics tags** : [header](https://www.w3schools.com/tags/tag_header.asp), [main](https://www.w3schools.com/tags/tag_main.asp), [footer](https://www.w3schools.com/tags/tag_footer.asp), [nav](https://www.w3schools.com/tags/tag_nav.asp), [article](https://www.w3schools.com/tags/tag_article.asp), [section](https://www.w3schools.com/tags/tag_section.asp), [aside](https://www.w3schools.com/tags/tag_aside.asp)
 ## 👚 CSS
+
+### CSS ?
+  - Cascading Style Sheets : describes the **presentation** (not a "programming language")
+  -  1996 (W3C : **separate content from presentation** easier multipages, integration)
+
+ 🔎 [Where](https://www.w3schools.com/css/css_howto.asp) to put CSS instructions?
+	- [inline](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_inline) **`<HTMLtag style="">...<HTMLtag>`**
+	- in the [head](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_internal) section **`<style> ... </style>`**
+	- in an external CSS file `**<link rel="stylesheet" href="style.css">**`
+
+- 📚 Examples
+	- Browser inspect : ctrl + shift + i (developers tools) or right click page “inspect”
+	- inspect and modify existing pages : [test](http://mob.u-strasbg.fr/lab/test.html) and [unistra](https://www.unistra.fr/)
+	- Readability extensions : [Just Read](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en), [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi?hl=en)...
+
+- selector {[property](<https://www.w3schools.com/cssref/>):value;}
+	- [selector](https://www.w3schools.com/cssref/sel_element.asp)?		
+		- tagname : `a {background-color:blue;}`
+		- unique #id : `#myid {background-color:blue;}`
+		- many .class : `.myclass {background-color:blue;}`
+		- combining selectors : `nav a`
+		- [test.html](http://mob.u-strasbg.fr/lab/test.html)
+	- tags often used for styling?
+		- div (block type), span (inline type)
+		- semantics (nav, header, footer, article, section, main, aside)
+	- [box](https://www.w3schools.com/css/css_boxmodel.asp) model
+	- [color](https://www.w3schools.com/colors/default.asp), background-color
+		- by name (blue, red...), hexa #00ff00 or rgb rgb(0,0,255)
+		- color pickers
+	- [text](https://www.w3schools.com/css/css_text.asp) format
+		- font-family : [websafe](https://www.w3schools.com/cssref/css_websafe_fonts.asp) fonts, [google](https://fonts.google.com/) fonts ([example](https://fonts.google.com/specimen/Annie+Use+Your+Telescope)), [font awesome](https://fontawesome.com/)...
+		- text-decoration, letter-spacing, word-spacing...
+	- [images](https://www.w3schools.com/css/css3_images.asp)
+		- background-image: url("paper.gif");
+	- [position](https://www.w3schools.com/css/css_positioning.asp)
+		- position [property](https://www.w3schools.com/css/css_positioning.asp) : [tuto](https://www.youtube.com/watch?v=jx5jmI0UlXU)
+		- [flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+		- [grid](https://www.w3schools.com/css/css_grid.asp)
+- 📱 [Responsive](https://www.w3schools.com/html/html_responsive.asp) design
+	- [viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
+		`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+	- [units](https://www.w3schools.com/cssref/css_units.asp)
+		- [%](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_percentage)
+			- relative to parent tag
+			- `<img src="img_girl.jpg" style="width:100%;">`
+			- `<img src="img_girl.jpg" style="max-width:100%;height:auto;">`
+		- [vw/vh](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_vw) : viewport width / height
+			- `<h1 style="font-size:10vw">Hello World</h1>`
+	- [media query](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+		- CSS: `@media screen and (max-width: 800px) {...}`
+- CSS framework
+	- Helps with CSS and Responsive Design
+	- Most known : [Bootstrap](https://getbootstrap.com/), [tutoriel](https://www.youtube.com/watch?v=JZ6R1PaEpww) (FR)
