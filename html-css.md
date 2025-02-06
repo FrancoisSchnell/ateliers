@@ -21,7 +21,7 @@ Make your webpage with HTML and CSS
 #### 👓 Visual Studio Code (VScode)
 
 - **provides** : completion, coloration...
-- **extensions** : Github copilot, Livre Preview, Live Server, Python...
+- **extensions** : Github copilot, Live Preview, Live Server, Python...
 - **AI assistant**:
   - create a Github.com account (for free version of copilot and to publish later your webpage)
   - for students and teachers Pro version is also free at : [github.com/education](https://github.com/education)
@@ -53,7 +53,7 @@ Make your webpage with HTML and CSS
 
 - [inline](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_inline) **`<HTMLtag style="">...<HTMLtag>`**
 - in the [head](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_internal) section **`<style> ... </style>`**
-- in an external CSS file `**<link rel="stylesheet" href="style.css">**`
+- in an external CSS file `<link rel="stylesheet" href="style.css">`
 
 ### 📚 Examples
 
@@ -71,7 +71,7 @@ Make your webpage with HTML and CSS
 - combining selectors : `nav a`
 - tags often used for styling?
   - div (block type), span (inline type)
-  - semantics (nav, header, footer, article, section, main, aside)
+  - [semantics](https://www.w3schools.com/html/html5_semantic_elements.asp) (nav, header, footer, article, section, main, aside)
 - [box](https://www.w3schools.com/css/css_boxmodel.asp) model
 - [color](https://www.w3schools.com/colors/default.asp), background-color :- by name (blue, red...), hexa #00ff00, rgb rgb(0,0,255), color pickers
 - [text](https://www.w3schools.com/css/css_text.asp) format
