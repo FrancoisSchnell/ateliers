@@ -13,5 +13,9 @@
 	- [examples](https://gist.github.com/ocoyawale/54d92fd4bf92508a2a6e482b5fa480fd)
 
 ## 🧑‍🤝‍🧑 Who, Why ?
+- **researchers** (2018 : 2.5M notebooks on Github, [Nature](https://www.nature.com/articles/d41586-018-07196-1))
+- **teachers** (Practical work, [measuring the speed of sound](https://www.youtube.com/watch?v=6Ir5wv18xhk&t=137s), [Learning Python](https://colab.research.google.com/drive/1RgvNaEXa7Aqnn8uc1fdYxymGnCfD9Bom?usp=sharing))
+- **data journalists** (C[ovid inquiry](https://www.rue89strasbourg.com/la-surmortalite-en-alsace-pendant-la-periode-covid-vue-depuis-les-chiffres-de-linsee-177809))
+- **you** ?
 ## 🧰 How ?
 ##  🎯 Challenge
