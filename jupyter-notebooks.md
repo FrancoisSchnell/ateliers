@@ -39,6 +39,7 @@
 - plot the age demographic
 - plot a pie of the number of passengers per class
 - find the survival probability depending of the class, the sex, and age.
+
 🏆 Result :
 - Jupyter [notebook](https://colab.research.google.com/drive/1u28fouG3Lor8ehJM8yy6wYL6tPih-utx) (Colab)
 - screencast : [old](https://www.youtube.com/watch?v=FNDWAybVPcc) (without ai)
