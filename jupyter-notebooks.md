@@ -20,7 +20,7 @@
 ## 🧰 How ?
 ### 📌 Local 
 - 🐍 python 3 
-	- `pip install jupyter pandas matplotlib`
+	- `pip install notebook pandas matplotlib`
 	-  launch in console : `jupyter notebook` or `python -m notebook`
 	- use Visual Studio Code and extension Copilot
 -  🐍 [anaconda](https://www.anaconda.com/)
