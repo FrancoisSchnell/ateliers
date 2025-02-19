@@ -24,7 +24,7 @@ Ressources : [krita.org](https://krita.org/) , [tablette Wacom](https://www.tikt
 - pour se rappeler une [conf](https://photos.google.com/share/AF1QipNyqhFxkrMCXZiVf_0-o7i7OmS0EacDRomXiWoMT58z0ZW-JGl_VmVo3eR_I9GesQ?key=Vk9YeXpWeFQwdVBrWktoVGktby1ENDRuUWc2M2tR)
 - [David Revoy](https://www.davidrevoy.com/), [Sketch Daily](https://www.reddit.com/r/SketchDaily/), [Twitch Art](https://www.twitch.tv/directory/game/Art)
 ## 🤖 Usage de l'IA 
-- télécharger le plugin [krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion), [vidéo démo](https://www.youtube.com/watch?v=Ly6USRwTHe0)
+- [télécharger](https://github.com/Acly/krita-ai-diffusion) [features](https://www.interstice.cloud/) [démo](https://www.youtube.com/watch?v=Ly6USRwTHe0) [handbooks](https://docs.interstice.cloud/)
 - tools > scripts > import Python plugins from file
 - settings > Dockers > check : AI image generation
 ## 🎯 Challenges
