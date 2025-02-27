@@ -5,7 +5,7 @@ Ressources : [krita.org](https://krita.org/) , [tablette Wacom](https://www.tikt
 
 ### 🎹 raccourcis claviers
 - Cacher interface : tab (view > Show Canvas Only)
-- Zoom et pan : ctrl+espace & glisser stylet (1: 100%)
+- Zoom et pan : ctrl+barre espace & glisser stylet
 - Rotation : shift+middle click (5: 0 degrés)
 - R : sélectionner une layer
 - B/E : Bush and brush as eraser
