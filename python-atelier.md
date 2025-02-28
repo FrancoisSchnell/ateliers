@@ -22,12 +22,13 @@
 - 👉 Google [Collab](https://colab.research.google.com/) , [Kaggle](https://www.kaggle.com/) 
 
 👩‍💻 [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) [Visual Studio Code](https://code.visualstudio.com/)
-	- provides: completion, coloration, debugger...
-	- lots of **extensions:** Python, indent-rainbow…
-	- create a folder for your project outside vscode
-	- open folder in VScode
-	- Run (arrow top-right), create hotkey (shift + enter ?)
-	- Tab & Shift+Tab for indentation
+- provides: completion, coloration, debugger...
+- lots of **extensions:** Python, indent-rainbow…
+- create a folder for your project outside vscode
+- open folder in VScode
+- Run (arrow top-right), create hotkey (shift + enter ?)
+- Tab & Shift+Tab for indentation
+- create first script and create a virtual env. 
 
 ## 🧱 Concepts
 - ✍️ [syntaxe](https://www.w3schools.com/python/python_syntax.asp) : use indentation to group (Tab & Shift-Tab)
@@ -44,12 +45,12 @@
 - 👋 Hello World Hack
     - 🤔 Goal : Hack "hello world" to greet participants (Ana, Barbara, Cecilia...) and introduce different programming concepts to make a "politeness simulator"
     - 🎯 Solution : Colab [notebook](https://colab.research.google.com/drive/1RgvNaEXa7Aqnn8uc1fdYxymGnCfD9Bom?usp=sharing)
-- ❄️Fridge Brain
-    - 🤔 Goal : lighting stroke your fridge brain, re-build it form scratch...
-    - 🎯 Solution : Colab [notebook](https://colab.research.google.com/drive/1DGH6c2HS-NUqbnkNL5sEO2AJf8qENsB7?usp=sharing)
 - 🛰️ Int. Space. Station (ISS) tracker (APIs)
     - 🤔 Goal : display ISS latitude, longitude each few seconds then improve it (log location in a file? show ISS on a map? etc.) Given: [ISS API](http://api.open-notify.org/iss-now.json)
     - 🎯 Solution : Colab [notebook](https://colab.research.google.com/drive/1kUYqaImUm1Owv8wOnKGXVZVJKjW5ATUZ?usp=sharing)
+- ❄️Fridge Brain
+    - 🤔 Goal : lighting stroke your fridge brain, re-build it form scratch...
+    - 🎯 Solution : Colab [notebook](https://colab.research.google.com/drive/1DGH6c2HS-NUqbnkNL5sEO2AJf8qENsB7?usp=sharing)
 - 🕸️ Web scrapping
     - 🕸️ sites to scrape : [scrapethissite](https://www.scrapethissite.com/pages/)
     - 📺 tuto BeautifulSoup: create a [BS object](https://www.youtube.com/watch?v=bargNl2WeN4), inspect [HTML in Browser](https://www.youtube.com/watch?v=q-kbzWjyPak), [BS find findall](https://youtu.be/xjA1HjvmoMY)
