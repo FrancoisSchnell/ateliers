@@ -46,10 +46,12 @@
 - 🧰 **Outils** :  LLMs, [LM studio](https://lmstudio.ai/), [NotebookLM](https://notebooklm.google/), [Open WebUI](https://github.com/open-webui/open-webui) 
 -  📚 **Ressources** : 
 - 🎯 **Challenges** :
+	- à partir de chatgpt ou mistral ? 
 	- question the [student welcome guide](https://www.unistra.fr/guide-welcome#c149513) ? (via [nLM](https://notebooklm.google.com/notebook/42b78c07-e4a9-4fc2-a4cf-2edc7297bee9))
 ## 🎤 Produire un podcast
 
 - 🧰 **Outils** : [NotebookLM](https://notebooklm.google/), 
 -  📚 **Ressources** : 
 - 🎯 **Challenges** :
+	- à partir du NotebookLM  [student welcome guide](https://www.unistra.fr/guide-welcome#c149513)
 
