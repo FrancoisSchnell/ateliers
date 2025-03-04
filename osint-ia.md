@@ -19,16 +19,21 @@
 
 - 🧰 **Outils** : Google [Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en), Samsung [Voice Recorder](https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote&hl=en), Google doc Voice typing, Whisper, etc
 - 🎯 **Challenges** :
+	- simuler une conférence, simuler une interview et tester plusieurs outils (temps réel ou pas ? séparation des interlocuteurs ? praticité ?)
 ## 🌍 Traduction, interprétation
 
 - 🧰 **Outils** : Google [Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) 
 - 🎯 **Challenges** :
+	- traduire des panneaux ou affiches étrangères (via caméra du mobile)
+	- interviewer un chercheur étranger (via mobile)
 ## 📰 Analyser ses documents (RAG)
 
 - 🧰 **Outils** :  LLMs, [LM studio](https://lmstudio.ai/), [NotebookLM](https://notebooklm.google/), [Open WebUI](https://github.com/open-webui/open-webui) 
 - 🎯 **Challenges** :
+	- faire des recherches sur un corpus de documents (Savoirs ?)
 ## 🎤 Produire un podcast
 
 - 🧰 **Outils** : [NotebookLM](https://notebooklm.google/), 
 - 🎯 **Challenges** :
+	- créer un podcast à partir d'un corpus de documents
 
