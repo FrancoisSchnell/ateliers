@@ -13,3 +13,5 @@ Les **🧰 outils** et **📚 ressources** proposées sont à titre indicatif; n
 La partie **🎯 challenge** vous propose une ou plusieurs 🤔 questions à explorer. Dans l'idéal trouver et partager des exemples dans votre domaine d'activité ou que vous avez vécu (à défaut des exemples sont présents dans chaque partie). 
 
 Lors de l'atelier un 🗒 **pad** sera proposé pour que puissiez **partager vos exemples ou découvertes**.
+
+☑ Pré-requis : venir avec son📱 mobile et son 💻 ordinateur portable.
