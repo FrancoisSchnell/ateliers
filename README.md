@@ -1,8 +1,6 @@
 # Les ateliers du Lab Numérique
 
-Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf)
-
-Supports,
+Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf) et les supports :
 
 - [Initiation à python](python-atelier.md)
 - [Initiation aux data sciences avec les Jupyter Notebooks](jupyter-notebooks.md)
