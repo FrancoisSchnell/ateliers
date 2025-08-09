@@ -1,6 +1,4 @@
 
-**Menu** : [🛠️ Tools](#tools) [🧱 Concepts](#🧱-concepts) [🎯 Challenges](#challenges) [📚 Resources](#resources)
-
 ## 🛠️ Tools
 
  🐍 which Python? 
@@ -23,7 +21,7 @@
 🕸️🐍 or a python webpage “Jupyter notebook” .ipynb
 - 👉 Google [Collab](https://colab.research.google.com/) , [Kaggle](https://www.kaggle.com/) 
 
-👩‍💻 [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) [Visual Studio Code](https://code.visualstudio.com/)
+### 👩‍💻 [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) [Visual Studio Code](https://code.visualstudio.com/)
 - provides: completion, coloration, debugger...
 - lots of **extensions:** Python, indent-rainbow…
 - create a folder for your project outside vscode
