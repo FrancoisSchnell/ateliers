@@ -1,4 +1,7 @@
 
+
+<details>
+  <summary>🛠️ Tools </summary>
 ## 🛠️ Tools
 
  🐍 which Python? 
@@ -29,6 +32,8 @@
 - Run (arrow top-right), create hotkey (shift + enter ?)
 - Tab & Shift+Tab for indentation
 - create first script and create a virtual env. 
+
+</details>
 
 ## 🧱 Concepts
 - ✍️ [syntaxe](https://www.w3schools.com/python/python_syntax.asp) : use indentation to group (Tab & Shift-Tab)
