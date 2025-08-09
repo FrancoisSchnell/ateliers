@@ -1,5 +1,5 @@
 
-**Menu** : [🛠️ Tools](#tools) [🧱 Concepts](#concepts) [🎯 Challenges](challenges) [📚 Resources](ressources)
+**Menu** : [🛠️ Tools](#tools) [🧱 Concepts](#concepts) [🎯 Challenges](#challenges) [📚 Resources](#resources)
 
 ## 🛠️ Tools
 
