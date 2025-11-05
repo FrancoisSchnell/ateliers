@@ -2,7 +2,7 @@
 # 📖 Atelier Jupyter notebooks
 
 ## 🔎 What ?
-- 📓 **[paper notebook](https://img.notionusercontent.com/s3/prod-files-secure%2Fdf6eca03-e878-42ae-a432-dececbe15ba9%2F856029d5-b55e-4424-b766-db5457f88db9%2FUntitled.png/size/w=1060?exp=1739458759&sig=5PIvIZlvIviKYqp6XpdAhzsPKjmzW_LSjs7VC2GJkew)** (free form but difficult to replicate, share, collaborate, not for big data or big calculus)
+- 📓 **[paper notebook](https://cdn8.openculture.com/2021/05/12213318/leonardo-notebooks-2.png)** (free form but difficult to replicate, share, collaborate, not for big data or big calculus)
 -  💻 **digital notebook** (**pdf ?** not easy to edit, collaborate, calculate...  **Html ?** not easy to read-edit... )
 - 🪐 **Jupyter notebook**
 	- inspiration : Matlab, Sage, Mapple, Mathematica...
