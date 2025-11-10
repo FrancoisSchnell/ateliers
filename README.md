@@ -7,4 +7,5 @@ Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf) et les s
 - [Faire sa page web avec HTML et CSS](html-css.md)
 - [La 3D avec Blender](3d-blender-impression.md)
 - [Initiation Krita (affiche, dessin, ia)](krita.md)
+- [Interagir plus vite avec les IA par la voix ou ses 10 doigts/clavier](IA-voix-et-clavier.md)
 -  [Enquêter et communiquer avec les IAs](enqueter-communiquer-ia/osint-ia.md)
