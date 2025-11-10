@@ -22,4 +22,6 @@
 	- Google Docs : Outils > Voice typing (ctrl + shift + S)
 	- Suites bureautiques
 	- Speech to text sur le campus ou VPN : https://whisper-ia.app.unistra.fr/ 
+	- Recorder (Pixels), Samsung Voice Input...
+
 # 👐 Clavier
