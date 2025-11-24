@@ -42,4 +42,6 @@
 	- **scripts ?** .sh
 	- **ssh**
 	- **[git](https://git-scm.com/)** ([gitlab](https://git.unistra.fr/), [github](https://github.com/))
+		- [atelier git, github, gitlab](atelier-git-github-gitlab.md)
+	
   
