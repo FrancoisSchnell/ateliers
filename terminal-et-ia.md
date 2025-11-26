@@ -2,8 +2,8 @@
 
 - 📚 Plusieurs **shells** du monde Unix : **Bash, Zsh**... du monde Windows : cmd, PowerShell...
 - 💾 Installation
-	- 🐧 Linux : ctrl + alt + t
-	- 🍏 mac : command + space : terminal
+	- 🐧 Linux (pré-installé) : ctrl + alt + t
+	- 🍏 mac (pré-installé) : command + space : terminal
 	- 🪟 Windows : 
 		- [Git Bash](https://git-scm.com/install/windows) : le plus simple à installer (cliquer sur "suivant" lors de l'installation) 
 		- [WSL](https://learn.microsoft.com/fr-fr/windows/wsl/install) : plus complet mais un peu plus dur à installer (📺 [tuto](https://youtu.be/zZf4YH4WiZo?si=8HeqwM0CLRpiksxU))
