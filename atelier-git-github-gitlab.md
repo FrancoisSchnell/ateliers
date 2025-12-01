@@ -36,7 +36,8 @@
 			- 🔐 [créer un clé SSH](ssh-key.md)
 		
 - 💻 Git en ligne de commande
-	- **git config** (user name, email, type de résolution de conflits)
+	- **git config** (user name, email, type de résolution de conflits; 
+	  writes in .gitconfig file in your home)
 		- git config --global user.name "YourUserName"          
 		- git config --global user.email "your email"
 		- git config --global pull.rebase false     (le plus simple pour les débutants)
