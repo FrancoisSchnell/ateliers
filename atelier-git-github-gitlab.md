@@ -55,11 +55,5 @@
 	 - ouvrir un dossier/projet
 	 - ouvrir "source control" (icone dans la barre d'outil à droite)
 
-- 👁 **A voir** 
-	- revenir ne arrière
-	- pull requests / créer un patch pour un autre dépôt
-	- gérer un conflict merge
-	- gérer des branches
-
 
 
