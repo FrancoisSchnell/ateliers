@@ -11,3 +11,4 @@ Le programme 👉 [ateliers](https://mob.u-strasbg.fr/lab/ateliers.pdf) et les s
 - [Enquêter et communiquer avec les IAs](enqueter-communiquer-ia/osint-ia.md)
 - [Libérez la puissance du terminal avec l’aide de l’IA](terminal-et-ia.md)
 - [Initiation à git, gitlab, github](atelier-git-github-gitlab.md)
+- [OnlyOffice, une suite bureautique moderne](onlyoffice.md)
