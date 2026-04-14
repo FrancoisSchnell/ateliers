@@ -5,8 +5,8 @@
 ## 💾 Au niveau des applications
 
 - 🌐📱 
-	- LLMs ([ChatGpt](https://chatgpt.com/), [Mistral](https://chat.mistral.ai/chat), etc... saisie vs conversation)
-	- https://chat.ia.unistra.fr/ (Beta)
+	- LLMs ([Gemini](https://gemini.google.com/app), [ChatGpt](https://chatgpt.com/), [Mistral](https://chat.mistral.ai/chat), [Claude](https://claude.ai/new) etc... saisie vs conversation)
+	- [portail.ia.unistra.fr](https://portail.ia.unistra.fr/) (Beta pour l'unistra)
 - ✍ Dicté / Transcript : 
 	- Google Docs : Outils > Voice typing (ctrl + shift + S)
 	- Suites bureautiques
